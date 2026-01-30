@@ -1,0 +1,2 @@
+# Iwik
+Bad script 
